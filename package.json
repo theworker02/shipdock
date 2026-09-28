@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/shipdock",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Ship numeric dock values, ranges, and human-readable units.",
+  "bin": {
+    "shipdock": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/shipdock.git"
+  },
+  "homepage": "https://theworker02.github.io/shipdock/",
+  "keywords": [
+    "ship",
+    "dock",
+    "number",
+    "cli",
+    "toolkit"
+  ]
+}
